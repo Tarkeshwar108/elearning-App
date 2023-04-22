@@ -9,6 +9,19 @@
 <img src="https://i.imgur.com/DhDPHWI.png" width="300" height="600">
 <img src="https://i.imgur.com/sp9isPJ.png" width="300" height="600">
 </h2>
+</br></br>
+
+## Android App Preview
+<h2>
+<img src="https://i.imgur.com/pRgfSw8.jpg" width="300" height="600">
+<img src="https://i.imgur.com/QN1Kug1.jpg" width="300" height="600">
+</h2>
+<h2>
+<img src="https://i.imgur.com/u0zUmvp.jpg" width="300" height="600">
+<img src="https://i.imgur.com/d5PG81x.jpg" width="300" height="600">
+</h2>
+
+
 <!-- ## Android App Preview
 ![Android Preview Gif 1](http://i.imgur.com/88ZW3Ls.gif "Android Preview Gif 1")
 ![Android Preview Gif 2](http://i.imgur.com/DWjd4zM.gif "Android Preview Gif 2")
