@@ -2,8 +2,8 @@
 
 ## iOS App Preview
 <h2>
-<img src="https://i.imgur.com/0pQ0wH3.png" width="400" height="600">
-<img src="https://i.imgur.com/rjjoVpE.png" width="400" height="600">
+<img src="https://i.imgur.com/0pQ0wH3.png" width="300" height="600">
+<img src="https://i.imgur.com/rjjoVpE.png" width="300" height="600">
 </h2>
 <h2>
 <img src="https://i.imgur.com/DhDPHWI.png" width="400" height="600">
